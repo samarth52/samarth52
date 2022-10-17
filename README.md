@@ -19,6 +19,6 @@ Aspiring to use innovative technology for social good! I'm highly interested in 
 
 <p><img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarth52&show_icons=true&locale=en&layout=compact" alt="samarth52" /></p>
 
-<p>&nbsp;<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=samarth52&show_icons=true&locale=en" alt="samarth52" /></p>
+<p>&nbsp;<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=samarth52&show_icons=true&locale=en" alt="samarth52" /></p>
 
-<p><img align="left" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=samarth52&" alt="samarth52" /></p>
+<p><img align="center" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=samarth52&" alt="samarth52" /></p>
