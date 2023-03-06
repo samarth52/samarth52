@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Samarth Chandna</h1>
 Aspiring to use innovative technology for social good! I'm highly interested in Deep Learning, Backend Dev, and Quantum Computing.
 
-- 🔭 I’m currently working on [Deep Learning Playground](https://datasciencegt-dlp.com/)
+- 🔭 I’m currently working on [GT Scheduler](https://www.gt-scheduler.org/) and [Deep Learning Playground](https://datasciencegt-dlp.com/)
 
 - 🌱 I’m currently learning **Next.js, Cloud Computing**
 
