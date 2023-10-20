@@ -7,8 +7,6 @@ Aspiring to use innovative technology for social good! I'm highly interested in 
 
 - 💬 Ask me about **Anomaly Detection with ML / Flask + PyTorch + boto3**
 
-- 📫 How to reach me **samarthchandna52@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samarth-chandna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samarth-chandna" height="30" width="40" /></a>
